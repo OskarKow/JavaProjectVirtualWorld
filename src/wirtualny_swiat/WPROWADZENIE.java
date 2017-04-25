@@ -1,0 +1,9 @@
+package wirtualny_swiat;
+
+public enum WPROWADZENIE {
+	STRZALKA_GORA,
+	STRZALKA_DOL,
+	STRZALKA_LEWO,
+	STRZALKA_PRAWO,
+	UMIEJETNOSC
+}
